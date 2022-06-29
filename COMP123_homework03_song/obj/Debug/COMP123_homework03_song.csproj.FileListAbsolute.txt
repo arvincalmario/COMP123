@@ -1,0 +1,7 @@
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework03_song\bin\Debug\COMP123_homework03_song.exe.config
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework03_song\bin\Debug\COMP123_homework03_song.exe
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework03_song\bin\Debug\COMP123_homework03_song.pdb
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework03_song\obj\Debug\COMP123_homework03_song.csproj.AssemblyReference.cache
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework03_song\obj\Debug\COMP123_homework03_song.csproj.CoreCompileInputs.cache
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework03_song\obj\Debug\COMP123_homework03_song.exe
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework03_song\obj\Debug\COMP123_homework03_song.pdb
