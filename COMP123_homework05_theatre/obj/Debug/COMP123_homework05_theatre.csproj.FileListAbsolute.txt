@@ -1,0 +1,8 @@
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework05_theatre\bin\Debug\COMP123_homework05_theatre.exe.config
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework05_theatre\bin\Debug\COMP123_homework05_theatre.exe
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework05_theatre\bin\Debug\COMP123_homework05_theatre.pdb
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework05_theatre\obj\Debug\COMP123_homework05_theatre.csproj.AssemblyReference.cache
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework05_theatre\obj\Debug\COMP123_homework05_theatre.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework05_theatre\obj\Debug\COMP123_homework05_theatre.csproj.CoreCompileInputs.cache
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework05_theatre\obj\Debug\COMP123_homework05_theatre.exe
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework05_theatre\obj\Debug\COMP123_homework05_theatre.pdb
