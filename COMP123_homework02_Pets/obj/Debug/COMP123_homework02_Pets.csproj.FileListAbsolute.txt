@@ -1,0 +1,7 @@
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework02_Pets\bin\Debug\COMP123_homework02_Pets.exe.config
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework02_Pets\bin\Debug\COMP123_homework02_Pets.exe
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework02_Pets\bin\Debug\COMP123_homework02_Pets.pdb
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework02_Pets\obj\Debug\COMP123_homework02_Pets.csproj.AssemblyReference.cache
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework02_Pets\obj\Debug\COMP123_homework02_Pets.csproj.CoreCompileInputs.cache
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework02_Pets\obj\Debug\COMP123_homework02_Pets.exe
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework02_Pets\obj\Debug\COMP123_homework02_Pets.pdb
