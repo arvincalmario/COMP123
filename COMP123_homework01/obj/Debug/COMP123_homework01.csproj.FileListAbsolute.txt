@@ -1,0 +1,7 @@
+C:\Users\Arvin Almario\source\repos\COMP123_homework01\bin\Debug\COMP123_homework01.exe.config
+C:\Users\Arvin Almario\source\repos\COMP123_homework01\bin\Debug\COMP123_homework01.exe
+C:\Users\Arvin Almario\source\repos\COMP123_homework01\bin\Debug\COMP123_homework01.pdb
+C:\Users\Arvin Almario\source\repos\COMP123_homework01\obj\Debug\COMP123_homework01.csproj.AssemblyReference.cache
+C:\Users\Arvin Almario\source\repos\COMP123_homework01\obj\Debug\COMP123_homework01.csproj.CoreCompileInputs.cache
+C:\Users\Arvin Almario\source\repos\COMP123_homework01\obj\Debug\COMP123_homework01.exe
+C:\Users\Arvin Almario\source\repos\COMP123_homework01\obj\Debug\COMP123_homework01.pdb
