@@ -1,0 +1,15 @@
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework04_lizard\bin\Debug\net6.0\COMP123_homework04_lizard.exe
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework04_lizard\bin\Debug\net6.0\COMP123_homework04_lizard.deps.json
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework04_lizard\bin\Debug\net6.0\COMP123_homework04_lizard.runtimeconfig.json
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework04_lizard\bin\Debug\net6.0\COMP123_homework04_lizard.dll
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework04_lizard\bin\Debug\net6.0\COMP123_homework04_lizard.pdb
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework04_lizard\obj\Debug\net6.0\COMP123_homework04_lizard.csproj.AssemblyReference.cache
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework04_lizard\obj\Debug\net6.0\COMP123_homework04_lizard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework04_lizard\obj\Debug\net6.0\COMP123_homework04_lizard.AssemblyInfoInputs.cache
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework04_lizard\obj\Debug\net6.0\COMP123_homework04_lizard.AssemblyInfo.cs
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework04_lizard\obj\Debug\net6.0\COMP123_homework04_lizard.csproj.CoreCompileInputs.cache
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework04_lizard\obj\Debug\net6.0\COMP123_homework04_lizard.dll
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework04_lizard\obj\Debug\net6.0\refint\COMP123_homework04_lizard.dll
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework04_lizard\obj\Debug\net6.0\COMP123_homework04_lizard.pdb
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework04_lizard\obj\Debug\net6.0\COMP123_homework04_lizard.genruntimeconfig.cache
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework04_lizard\obj\Debug\net6.0\ref\COMP123_homework04_lizard.dll
