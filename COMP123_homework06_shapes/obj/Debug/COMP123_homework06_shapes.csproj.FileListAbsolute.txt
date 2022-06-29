@@ -1,0 +1,7 @@
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework06_shapes\bin\Debug\COMP123_homework06_shapes.exe.config
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework06_shapes\bin\Debug\COMP123_homework06_shapes.exe
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework06_shapes\bin\Debug\COMP123_homework06_shapes.pdb
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework06_shapes\obj\Debug\COMP123_homework06_shapes.csproj.AssemblyReference.cache
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework06_shapes\obj\Debug\COMP123_homework06_shapes.csproj.CoreCompileInputs.cache
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework06_shapes\obj\Debug\COMP123_homework06_shapes.exe
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework06_shapes\obj\Debug\COMP123_homework06_shapes.pdb
