@@ -1,0 +1,14 @@
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP213_homework03_time\bin\Debug\COMP213_homework03_time.exe.config
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP213_homework03_time\bin\Debug\COMP213_homework03_time.exe
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP213_homework03_time\bin\Debug\COMP213_homework03_time.pdb
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP213_homework03_time\obj\Debug\COMP213_homework03_time.csproj.AssemblyReference.cache
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP213_homework03_time\obj\Debug\COMP213_homework03_time.csproj.CoreCompileInputs.cache
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP213_homework03_time\obj\Debug\COMP213_homework03_time.exe
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP213_homework03_time\obj\Debug\COMP213_homework03_time.pdb
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework03_time\bin\Debug\COMP213_homework03_time.exe.config
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework03_time\bin\Debug\COMP213_homework03_time.exe
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework03_time\bin\Debug\COMP213_homework03_time.pdb
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework03_time\obj\Debug\COMP213_homework03_time.csproj.AssemblyReference.cache
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework03_time\obj\Debug\COMP213_homework03_time.csproj.CoreCompileInputs.cache
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework03_time\obj\Debug\COMP213_homework03_time.exe
+C:\Users\Arvin Almario\source\repos\COMP123 codes_programming2\COMP123_homework03_time\obj\Debug\COMP213_homework03_time.pdb
